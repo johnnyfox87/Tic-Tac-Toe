@@ -1,1 +1,1 @@
-This is a result of a learning project used on Hyperskill.org 
+This is the result of a learning project used on Hyperskill.org 
